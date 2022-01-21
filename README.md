@@ -9,5 +9,5 @@ So to set up:
 5. Open cmd
 6. Write the following commands: "npm install fs" and "npm install ethers"
 7. Inside ido.js change: "tokenIn", "amountIn", "d"
-8. In the file "txt.js" paste your private keys through enter
-9. Before sale run script "node ido.js"
+8. In the file "key.txt" paste your private keys through enter
+9. Before sale, run script "node ido.js"
